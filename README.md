@@ -45,9 +45,9 @@ Grab the jar from the **jars** folder appropriate for your version of Spark.
 2. Click on the default storage account ![Default storage](http://tomdrabas.com/data/BigDL/DefaultStorageAccount.png)
 3. Go to Blobs ![Blobs](http://tomdrabas.com/data/BigDL/Blobs.png)
 4. Select the default container 
-![Container](http://tomdrabas.com/data/BigDL/DefaultContainer.png)
+![Container](http://tomdrabas.com/data/BigDL/DefaultContainer_obs.png)
 5. Upload the jar appropriate for your version of Spark to the root of the folder ![Upload](http://tomdrabas.com/data/BigDL/Upload.png)
-6. Check if uploaded successfully ![Uploaded](http://tomdrabas.com/data/BigDL/UploadedJar.png)
+6. Check if uploaded successfully ![Uploaded](http://tomdrabas.com/data/BigDL/UploadedJar_obs.png)
 
 ### 3. Upload the data
 
